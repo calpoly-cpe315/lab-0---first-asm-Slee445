@@ -34,4 +34,4 @@ message1:
 message2:
         .asciz "teasing tantalizing milk\n"
 message3:
-        .asciz "how I crave thy eggnog\n"
+        .asciz "I crave thy eggnog\n"
